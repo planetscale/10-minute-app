@@ -7,6 +7,7 @@ export default async (req, res) => {
     port: process.env.MYSQL_PORT,
     user: process.env.MYSQL_USER,
     password: process.env.MYSQL_PASSWORD,
+    ssl: {}
   });
 
   const [rows] = await connection.query("SELECT 1 as value");
