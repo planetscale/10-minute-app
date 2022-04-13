@@ -1,3 +1,7 @@
+# This application has been achived
+PlanetScale and the community have created many examples of PlanetScale with a variety of other tools, please check them out.  Here is one to help you get started with PlanetScale and NextJS https://github.com/planetscale/nextjs-planetscale-starter.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
